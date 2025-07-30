@@ -1,0 +1,38 @@
+.navbar{
+    background-color: #5a4237;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #5a4237; 
+    color: white; 
+}
+
+.dropdown-item:hover{
+    background-color: #5a4237;
+    color: white;
+}
+
+.dropdown-item.active,
+.dropdown-item:focus {
+    background-color: #452c1f;
+}
+
+.btn-order {
+  background-color: #5a4237; 
+  border-color: #5a4237;
+  border-radius: 0.375rem;
+  color: #ffffff;
+}
+
+.btn-order:hover {
+  background-color: #4f372b; 
+  border-color: #4f372b;
+  color: #ffffff;
+}
+
+.btn-order:active,
+.btn-pelayan:focus {
+  background-color: #452c1f; 
+  border-color: #452c1f;
+   
+}
